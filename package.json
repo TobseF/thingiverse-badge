@@ -1,0 +1,9 @@
+{
+  "name": "stackoverflow-badge",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "thingiverse-js": "^1.0.1"
+  }
+}
